@@ -75,7 +75,7 @@ h2{
     color: #ff4c68;
 }
 
-/* testimonial sectioin */
+/* testimonial section */
 
 #testimonials{
     text-align: center;
@@ -105,4 +105,23 @@ h2{
 
 .carousel-item{
     padding: 7% 15%;
+}
+
+/* pricing section */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-heading{
+    font-weight: bold;
+}
+
+.pricing-headers{
+    font-weight: bold;
+}
+
+.pricing-col{
+    padding: 3% 2%;
 }
