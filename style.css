@@ -133,6 +133,8 @@ h2{
     padding: 3% 2%;
 }
 
+/* Media query breakpoints */
+
 @media (max-width: 999px){
     #title{
         text-align: center;
@@ -142,4 +144,31 @@ h2{
         position: static;
         transform: rotate(360deg);
     }
+}
+
+/* Call to action */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+    font-family: 'Montserrat-Black', sans-serif;
+    color: white;
+}
+
+.cta-heading{
+    font-weight: bold;
+    font-size: 3.4rem;
+}
+
+/* footer section */
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.fa-icon{
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
