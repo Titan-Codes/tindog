@@ -134,6 +134,9 @@ h2{
 }
 
 @media (max-width: 999px){
+    #title{
+        text-align: center;
+    }
     .title-image{
         height: 20rem;
         position: static;
